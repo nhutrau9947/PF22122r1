@@ -1,0 +1,10 @@
+h1 {
+  color: rgb(228, 24, 24);
+  border: 4px solid red;
+  background-color: aqua;
+}
+html {
+  background: url(https://znews-photo.zingcdn.me/w660/Uploaded/kbd_bcvi/2019_11_23/5d828d976f24eb1a752053b5.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
